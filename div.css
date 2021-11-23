@@ -1,6 +1,6 @@
-div {
+#estilo1 {
     margin-left: 25%;
     margin-right: 25%;
     padding: 10px;
-    border: black 2px solid;
+    text-align: justify;
 }
