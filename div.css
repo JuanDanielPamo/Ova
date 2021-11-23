@@ -1,6 +1,6 @@
 #estilo1 {
-    margin-left: 25%;
-    margin-right: 25%;
-    padding: 10px;
+    justify-content: flex-start; /* X */
+    align-items: flex-start;
     text-align: justify;
+    transform: translate(-50%, 0);
 }
