@@ -3,4 +3,4 @@
 ## Alejandra Sofía Agamez Ibarra
 ## Juan Daniel Padilla
 ## Pier Durango 
-# Jose Isaac Chantak
+## Jose Isaac Chantak
