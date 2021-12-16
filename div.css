@@ -17,7 +17,7 @@
     .padre3 {
         display: block;
     justify-content: center;
-    width: 930px;
+    width: 980px;
     text-align: left;
         }
 
@@ -83,6 +83,30 @@ text-align: center;
     font-family: 'Oswald', sans-serif;
     
 }
+.textochico2{
+    font-family: 'Oswald', sans-serif;
+    background-color: rgb(24, 184, 32);
+    padding: 20px;
+    margin: 20px;
+    text-align: justify;
+    
+}
+.textochico3{
+    font-family: 'Oswald', sans-serif;
+    background-color: rgb(219, 206, 23);
+    padding: 20px;
+    margin: 20px;
+    text-align: justify;
+    
+}
+.textochico4{
+    font-family: 'Oswald', sans-serif;
+    background-color: rgba(184, 24, 157, 0.712);
+    padding: 20px;
+    margin: 20px;
+    text-align: justify;
+    
+}
 .textogrande
 {
     width: 90%;
@@ -91,6 +115,26 @@ max-width: 1000px;
 font-size: 30px;
 font-family: 'Roboto Condensed', sans-serif; 
 text-align: center;
+font-weight: 900;
+}
+.textogrande2
+{
+    width: 90%;
+margin: 4px auto;
+max-width: 1000px;
+font-size: 30px;
+font-family: 'Roboto Condensed', sans-serif; 
+text-align: left;
+font-weight: 900;
+}
+.textogrande3
+{
+    width: 90%;
+margin: 4px auto;
+max-width: 1000px;
+font-size: 20px;
+font-family: 'Roboto Condensed', sans-serif; 
+text-align: left;
 font-weight: 900;
 }
 @import url('https://fonts.googleapis.com/css2?family=Mohave:wght@300&display=swap');
