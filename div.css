@@ -14,6 +14,13 @@
     display: block;
     }
 
+    .padre3 {
+        display: block;
+    justify-content: center;
+    width: 930px;
+    text-align: left;
+        }
+
   .hijo {
     padding: 20px;
     margin: 20px;
@@ -78,7 +85,6 @@ text-align: center;
 }
 .textogrande
 {
-    
     width: 90%;
 margin: 4px auto;
 max-width: 1000px;
