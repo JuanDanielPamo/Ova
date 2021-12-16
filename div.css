@@ -2,5 +2,88 @@
     justify-content: flex-start; /* X */
     align-items: flex-start;
     text-align: justify;
+}
+.padre {
+    display: flex;
+    justify-content: center;
    
+  }
+  .padre2 {
+    align-items: center;
+    justify-content: center;
+    display: block;
+    }
+
+  .hijo {
+    padding: 20px;
+    margin: 20px;
+    background-color: yellow;
+    height: 530px;
+    width: 500px;
+    vertical-align:middle;
+  }
+  .hijo2 {
+      align-items: center;
+    padding: 20px;
+    margin: 20px;
+    background-color: rgb(19, 149, 255);
+    height: min-content;
+    width: 940px;
+text-align: justify;
+  }
+
+  .aleja{
+    padding: 20px;
+    margin: 20px;
+    background-color: rgb(19, 255, 97);
+    height: 530px;
+    width: 400px;
+  }
+  @import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
+
+.letra {
+    font-size: 150%;
+    font-family: 'Bebas Neue', cursive;
+}
+#titulo1{
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+    background-color: rgb(255, 72, 0);
+    width: 940px;
+   
+   }
+   @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&display=swap');
+    p{ text-align: justify;
+      width: 90%;
+margin: 20px auto;
+max-width: 1000px;
+font-size: 18px;
+font-family: 'Oswald', sans-serif;
+font-weight: 300;}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700&display=swap');
+
+h1
+{width: 90%;
+margin: 20px auto;
+max-width: 1000px;
+font-size: 15px;
+font-family: 'Roboto Condensed', sans-serif; 
+text-align: center;
+}
+.textochico{
+    font-family: 'Oswald', sans-serif;
+    
+}
+.textogrande
+{
+    
+    width: 90%;
+margin: 4px auto;
+max-width: 1000px;
+font-size: 30px;
+font-family: 'Roboto Condensed', sans-serif; 
+text-align: center;
+font-weight: 900;
 }
